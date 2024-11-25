@@ -1,1 +1,4 @@
-Wpis do pliku - zwyk³ad notatka
+Wpis do pliku - prosta notatka
+Aktualizacja notatki - wysy³am do zdalnego repo
+[nie ejstem zalogowany na github.com]
+
