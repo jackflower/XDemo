@@ -2,5 +2,7 @@ Wpis do pliku - prosta notatka
 Aktualizacja notatki - wysy³am do zdalnego repo
 [nie ejstem zalogowany na github.com]
 Analiza ustawieñ konfiguracyjnych.
+Analiza ustawieñ konfiguracyjnych - architektura - analiza
+
 
 
